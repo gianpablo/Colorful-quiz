@@ -1,0 +1,25 @@
+body{
+	background-image: url("fundo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Indie Flower', cursive;
+}
+ul{
+	background-color: gold;
+	padding: 5px;
+}
+li{
+	color: white;
+	font-size: 25px;
+	background-color: blue;
+	padding: 5px;
+	margin: 5px;
+	list-style-type: none;
+}
+li:hover {
+  background-color: gray;
+
+}
+a{
+	text-decoration: none;
+}
